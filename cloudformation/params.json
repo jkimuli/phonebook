@@ -1,0 +1,12 @@
+[
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "myec2"
+    },
+
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.micro"
+    }   
+
+]
